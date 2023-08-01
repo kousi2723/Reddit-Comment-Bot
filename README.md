@@ -1,5 +1,4 @@
 # Reddit-Comment-Bot
-# Reddit Comment Bot
 This Reddit Comment Bot is a python-based auto-responder.
   - Pick a subreddit to scan
   - Designate a specific comment to search for
